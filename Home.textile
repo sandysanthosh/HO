@@ -10,3 +10,6 @@ ColorIconsPLATFORMDetailsPanelEnvSwitcherCOMPONENTSActionBarAffixBarChartButtonC
 
 
 https://datatables.net/examples/basic_init/multiple_tables.html
+
+
+https://datatables.net/examples/basic_init/multiple_tables.html
